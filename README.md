@@ -6,10 +6,6 @@
 
 ---
 # 💻 Tech Stack:
-![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=Linux&color=black) ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&color=%23000000) ![C](https://img.shields.io/badge/C%20language-white?style=for-the-badge&logo=C&color=%23000000)
- ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![UVM](https://img.shields.io/badge/UVM-white?style=for-the-badge&color=%23000000) ![System Verilog](https://img.shields.io/badge/System_Verilog-white?style=for-the-badge&color=%23000000) ![Verilog](https://img.shields.io/badge/Verilog-white?style=for-the-badge&color=%23000000)![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=Linux&color=black) ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&color=%23000000) ![C](https://img.shields.io/badge/C%20language-white?style=for-the-badge&logo=C&color=%23000000) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=OmkarBhat08&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarBhat08&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
