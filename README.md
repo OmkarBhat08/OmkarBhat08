@@ -5,7 +5,7 @@ My work centers on
 * Mastering verification methodologies to ensure design quality and correctness.
 * Designing robust verification environments using UVM and SystemVerilog
 * Developing comprehensive test plans, sophisticated constraints, and powerful assertions, along with deep-dive analysis of Code Coverage report to close complex coverage holes.
-* Practical application of industry protocols, including the RISC-V processor and APB Protocol.
+* Practical application of industry protocols, including the RISC-V processor, AXI-Lite and APB Protocol.
 ---  
 ## 🌐 Socials:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/omkar-bhat/)
